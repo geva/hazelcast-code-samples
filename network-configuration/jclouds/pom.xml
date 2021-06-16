@@ -22,7 +22,7 @@
         <main.basedir>${project.parent.parent.basedir}</main.basedir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <jclouds.version>1.9.1</jclouds.version>
+        <jclouds.version>2.0.2</jclouds.version>
     </properties>
 
     <dependencies>
